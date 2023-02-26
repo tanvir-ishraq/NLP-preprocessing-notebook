@@ -8,7 +8,7 @@ convert to lower case
 remove stop words 
 
 * preprocessing start:
-* 
+
 stemming
 
 tokenization
